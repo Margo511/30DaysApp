@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">30DaysApp</string>
+    <string name="app_name">Fitness in 30</string>
+    <string name="fitday1">Day 1 - Title</string>
+    <string name="fitday2">Day 2 - Title</string>
+    <string name="fitday3">Day 3 - Title</string>
+    <string name="fitday4">Day 4 - Title</string>
+    <string name="fitday5">Day 5 - Title</string>
+    <string name="fitday6">Day 6 - Title</string>
+    <string name="fitday7">Day 7 - Title</string>
+    <string name="fitday8">Day 8 - Title</string>
+    <string name="fitday9">Day 9 - Title</string>
+    <string name="fitday10">Day 10 - Title</string>
 </resources>
